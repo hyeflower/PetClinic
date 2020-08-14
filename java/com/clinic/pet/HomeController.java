@@ -1,5 +1,5 @@
 package com.clinic.pet;
-//이재우작업물 
+//이재우,이혜지작업물
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
